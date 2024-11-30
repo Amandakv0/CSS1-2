@@ -1,0 +1,102 @@
+body{
+    width: 1920px;
+    height: 2362px;
+    top: -1206px;
+    left: -960px;
+}
+h1{
+    color: #00000;
+    /*width: 1237px; amas rom vwer qvemot chamodis satauris nawili*/
+    height: 86px;
+    top: 24px;
+    left: 341px;
+
+    font-family: Lato;
+    font-size: 72px;
+    font-weight: 700;
+    line-height: 86.4px;
+    text-align: left;
+    text-underline-position: from-font;
+}
+.firstFrame{
+    width: Fixed (568px)px;
+    height: Hug (866px)px;
+    top: 147px;
+    left: 55px;
+    gap: 32px;
+    opacity: 0px;
+}
+.firstInnerFrame{
+    width: Fill (568px)px;
+    height: Hug (778px)px;
+    gap: 12px;
+    opacity: 0px;
+}
+#firstImg{
+    width: 568px;
+    height: 446px;
+}
+.secondInnerFrame{
+    width: 568px;
+    height: 320px;
+    gap: 16px;
+}
+#staryNight{
+    width: 568px;
+    height: 48px;
+    font-family: "Lato";
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    color: #000000;
+}
+.staryParag{
+    width: 568px;
+    height: 96px;
+    gap: 10px;
+    opacity: 0px;
+} 
+#staryNightParag{
+    width: 568px;
+    height: 96px;
+    font-family: "Lato";
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #414651;
+}
+#staryNightList{
+    width: 568px;
+    height: 144px;
+    font-family: "Lato";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #155EEF;
+}
+.buttonFrame{
+    width: 177px;
+    height: 56px;
+    padding-top: 12px;
+    padding-right: 32px;
+    padding-bottom: 12px;
+    padding-left: 32px;
+    gap: 10px;
+    border: 2px 0px 0px 0px;
+    opacity: 0px;
+    border: 2px solid #CEA201;
+}
+#readMoreButton{
+    width: 113px;
+    height: 32px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: "Lato";
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    border: 2px 0px 0px 0px;
+    color: #CEA201;
+}
