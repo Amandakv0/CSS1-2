@@ -100,3 +100,184 @@ h1{
     border: 2px 0px 0px 0px;
     color: #CEA201;
 }
+
+.secondPart{
+    width: 722px;
+    height: 1156px;
+    top: 1087px;
+    left: 55px;
+    gap: 24px;
+}
+.firstTitPar{
+    width: 722px;
+    height: 136px;
+    gap: 16px;
+}
+#magic{
+    width: 722px;
+    height: 48px;
+    font-family: "Lato";
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    color: #000000;
+}
+.explanationFrame{
+    width: 722px;
+    height: 72px;
+    gap: 10px;
+}
+#explanation{
+    width: 722px;
+    height: 72px;
+    font-family: "Lato";
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #414651;
+}
+.workFrame{
+    width: 722px;
+    height: 336px;
+    gap: 24px;
+}
+.processFrame{
+    width: 722px;
+    height: 112px;
+    gap: 16px;
+}
+.headerFramee{
+    width: 722px;
+    height: 24px;
+    gap: 10px;
+}
+#process{
+    width: 722px;
+    height: 24px;
+    font-family: "Lato";
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    color: #00C76E;
+}
+#threeStepList{
+    width: 461px;
+    height: 72px;
+    font-family: "Lato";
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FF5DA3;
+}
+#secondImg{
+    width: 200px;
+    height: 200px;
+}
+
+.whereWeSeePart{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 24px;
+    align-self: stretch;
+}
+.firstSubFrame{
+    border: 6px solid #C11574;
+    background: #FFDEF0;
+    display: flex;
+    padding: 16px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    align-self: stretch;
+}
+.frameOfTheList{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    align-self: stretch;
+}
+.listTitleFrame{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    align-self: stretch;
+}
+#listHeading{
+    width: 690px;
+    height: 24px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 24px;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #414651;
+}
+.unorganisedListFrame{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 8px;
+}
+.firstListedItemFrame{
+    width: 435px;
+    height: 24px;
+    gap: 12px;
+}
+#firstAnswer{
+    width: 407px;
+    height: 24px;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #C27512;
+}
+#secondAnswer{
+    width: 399px;
+    height: 24px;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #C27512;
+}
+#thirdAnswer{
+    width: 467px;
+    height: 24px;
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    color: #C27512;
+}
+#thirdImg{
+    width: 722px;
+    height: 580px;
+    gap: 24px;
+}
+#lastText{
+    width: 216px;
+    height: 32px;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: left;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: auto;
+    color: #00D4BC;
+}
