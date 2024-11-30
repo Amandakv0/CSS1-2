@@ -242,6 +242,11 @@ h1{
     text-align: left;
     color: #C27512;
 }
+.secondListedItem{
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
 #secondAnswer{
     width: 399px;
     height: 24px;
