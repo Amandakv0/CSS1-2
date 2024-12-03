@@ -1,0 +1,250 @@
+#websiteHeader{
+    margin: 37px;
+    color: #000;
+    font-size: 72px;
+    font-family: "Lato";
+    font-weight: 700;
+    text-transform: uppercase;
+    text-align: center;
+}
+#headerFrame{
+    height: 86px;
+}
+#firstSectionMainFrame{
+    margin-left: 55px;
+    box-sizing: content-box;
+    width: 568px;
+    height: 866px;
+}
+#firstSectionFrame{
+    box-sizing: content-box;
+    width: 586px;
+    height: 778px;
+}
+#firstImg{
+    width: 568px;
+    height: 446px;
+}
+#firstSectionInnerFrame{
+    box-sizing: content-box;
+    width: 568px;
+    height: 320px;
+}
+#staryHeaderFrame{
+    box-sizing: border-box;
+    width: 568px;
+    height: 48px;
+}
+#staryNight{
+    margin: 0;
+    font-size: 40px;
+    font-family: "Lato";
+    line-height: 48px;
+    font-weight: 700;
+    text-align: center;
+    text-transform: uppercase;
+}
+#staryNightParagFrame{
+    box-sizing: content-box;
+    width: 568px;
+    height: 96px;
+}
+#staryNightParag{
+    color: #414651;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+}
+#list{
+    font-weight: 400;
+    color: #155EEF;
+    font-size: 16px;
+    line-height: 24px;
+}
+#buttonFrame{
+    box-sizing: content-box;
+    width: 113px;
+    height: 32px;
+    padding: 12px 32px;
+    border: 2px solid #CEA201;
+}
+#buttonContent{
+    color: #CEA201;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+    margin: 0;
+}
+#secondSectionMainFrame{
+    margin-top: 74px;
+    margin-left: 55px;
+    box-sizing: content-box;
+    width: 722px;
+    height: 1156px;
+}
+#secondSectionParagFrame{
+    box-sizing: content-box;
+    width: 722px;
+    height: 136px;
+}
+#glowingHeader{
+    line-height: 48px;
+    font-size: 37px;
+    font-weight: 700;
+    text-align: center;
+    margin: 0;
+    text-transform: uppercase;
+}
+#glowingParagFrame{
+    box-sizing: content-box;
+    width: 722px;
+    height: 72px;
+    margin-bottom: 16px;
+}
+#glowingParag{
+    color: #414651;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    margin: 0;
+}
+#secondSectionFirstInnerFrame{
+    margin-bottom: 24px;
+    box-sizing: content-box;
+    width: 722px;
+    height: 336px;
+    margin: 0;
+}
+#howItWorksFrame{
+    box-sizing: content-box;
+    width: 722px;
+    height: 112px;
+    margin-bottom: 24px;
+}
+#howItWorksHeaderFrame{
+    box-sizing: content-box;
+    width: 722px;
+    height: 24px;
+    margin-bottom: 16px;
+}
+#explanationHeeader{
+    color: #00C76E;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+    margin: 0;
+}
+#secondList{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FF5DA3;
+    text-align: center;
+    list-style-position: inside;
+}
+#secondImg{
+    width: 200px;
+    height: 200px;
+}
+
+#thirdSectionMainFrame{
+    box-sizing: content-box;
+    width: 722px;
+    height: 580px;
+    margin-bottom: 24px;
+}
+#thirdSectionFirstInnerFrame{
+    box-sizing: content-box;
+    width: 690px;
+    height: 128px;
+    padding: 16px;
+    margin-top: 24px;
+    margin-bottom: 24px;
+    border: 6px solid #C11574;
+    background-color: #FFDEF0;
+}
+#allContentMainFrame{
+    box-sizing: content-box;
+    width: 690px;
+    height: 128px;
+}
+#contentHeaderFramee{
+    margin-bottom: 16px;
+    box-sizing: content-box;
+    width: 690px;
+    height: 24px;
+}
+#whereWeSeeIt{
+    font-weight: 800;
+    font-size: 24px;
+    line-height: 24px;
+    margin: 0;
+}
+#whereWeSeeListFrame{
+    box-sizing: content-box;
+    width: 495px;
+    height: 88px;
+}
+#firstListedItemFrame{
+    box-sizing: content-box;
+    width: 435px;
+    height: 24px;
+}
+#erti{
+    width: 16px;
+    height: 16px;
+    border-radius: 90px;
+    background-color: #000;
+    display: inline-block;/*esetebi sheidzleba*/
+}
+#firstOne{
+    display: inline;
+    color: #C27512;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    margin-left: 12px;
+}
+#secondListedItemFrame{
+    box-sizing: content-box;
+    width: 435px;
+    height: 24px;    
+}
+#secondOne{
+    display: inline;
+    color: #C27512;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    margin-left: 12px;
+}
+#thirdsListedItemFrame{
+    box-sizing: content-box;
+    width: 495px;
+    height: 24px;
+}
+#thirdOne{
+    display: inline;
+    color: #C27512;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 400;
+    margin-left: 12px;
+}
+#thirdImg{
+    width: 198.012px;
+    height: 396px;
+}
+#footer{
+    display: inline;
+    color: #00D4BC;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: right;
+    margin: 0;
+}
